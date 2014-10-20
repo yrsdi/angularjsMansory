@@ -1,4 +1,4 @@
-angularjsMansory
+angularjsMansonry
 ================
 
-Implementing Mansory in Angular.js
+Implementing Mansonry in Angular.js
